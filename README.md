@@ -1,0 +1,2 @@
+# rivalsscript
+very vibecode
